@@ -1,2 +1,2 @@
 # Anticheat-Test-Server
-Custom anticheat testing server with basic plugins to test anticheats! Predone world file is in worlddownload file because of the filesize! Have fun!
+Custom anticheat testing server with basic plugins to test anticheats! The world file download is in the "world" folder and the paper 1.8.8 jar is seperate because file size! Enjoy!
